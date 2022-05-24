@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand {
+    color: #A11E3E !important;
+}
+.navbar {
+    background: #FEC3C7 !important;
+}
+.btn {
+    margin: 0;
+}
+.btn-outline-success {
+    color: #A11E3E !important;
+    border: #A11E3E solid !important;
+}
