@@ -76,3 +76,13 @@
     height: 48px;
     width: 130px;
 }
+.footer {
+    background: #A11E3E;
+}
+.px-5 {
+    border-right: 1px solid black;
+}
+.px-3 img {
+    width: 100%;
+    height: 20px;
+}
