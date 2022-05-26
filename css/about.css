@@ -16,16 +16,4 @@
     color: #A11E3E !important;
     border: #A11E3E solid !important;
 }
-.col-lg-6 img {
-    width: 90%;
-}
-.footer {
-    background: #A11E3E;
-}
-.px-5 {
-    border-right: 1px solid black;
-}
-.px-3 img {
-    width: 100%;
-    height: 20px;
-}
+
